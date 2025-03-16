@@ -1,0 +1,10 @@
+Database Name: vehicle-parking-db
+
+Login Details
+
+Username: admin
+Password: Group02fots
+
+
+
+
